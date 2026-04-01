@@ -1,6 +1,7 @@
 # Crack Placement
 
 - [DSA All Pattern Questions Sheet](https://docs.google.com/spreadsheets/d/1EATtnseztL3h2fFu0Fpz17oc_VaS25YJa_tOiN-hDBY/edit?gid=0#gid=0)
+- [Complete SQL](https://docs.google.com/document/d/1K6MMqzL7U0uaYjiJqgixSYFGoSVnlK7RCU7QUIJ7HiI/edit?usp=sharing)
 - [Caelius Consulting Placement Crack Docs](https://docs.google.com/document/d/1kkFeF-oVOqp3Jlg8D3ymb1FfzatawmFSlUZPLk_Rp2E/edit?tab=t.0#heading=h.1iowp9bm9ys4)
 
 # Employee Management System
