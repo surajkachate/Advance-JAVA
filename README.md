@@ -4,6 +4,10 @@
 - [Complete SQL](https://docs.google.com/document/d/1K6MMqzL7U0uaYjiJqgixSYFGoSVnlK7RCU7QUIJ7HiI/edit?usp=sharing)
 - [Caelius Consulting Placement Crack Docs](https://docs.google.com/document/d/1kkFeF-oVOqp3Jlg8D3ymb1FfzatawmFSlUZPLk_Rp2E/edit?tab=t.0#heading=h.1iowp9bm9ys4)
 
+# Salesforce
+- [Signup](https://developer.salesforce.com/signup)
+- [Learn](https://trailhead.salesforce.com/)
+
 # Employee Management System
 
 A full-stack Employee Management System built with React.js (frontend) and Spring Boot (backend), using MySQL as the database. This project allows managing employees with full CRUD operations and demonstrates integration between a modern frontend and a robust backend.
