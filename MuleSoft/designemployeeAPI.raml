@@ -1,0 +1,41 @@
+#%RAML 1.0
+title: DemoProject
+version: 1.0.0
+description: Employee Management Software API
+
+/employees:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                id: 1,
+                firstName: "Suraj",
+                lastName: "Kachate",
+                email: "surajkachate@gmail.com"
+              }
+
+/add:
+  post:
+    body:
+      application/json:
+        example:
+          {
+            id: 2
+          }
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                id: 2,
+                firstName: "Akash",
+                lastName: "Rana",
+                email: "akashrana@gmail.com"
+              }
+          
+            
+
